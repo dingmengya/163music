@@ -1,4 +1,4 @@
-<widget id="A6961352947885"  version="0.0.1">
+<widget id="A6026199857354"  version="0.0.1">
 	<name>wangyimusic</name>
 	<description>
 	    仿网易云音乐
@@ -29,4 +29,3 @@
 	<permission name="hardware"/>
 	<access origin="*"/>
 </widget>
-
